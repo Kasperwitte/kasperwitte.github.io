@@ -1,0 +1,14 @@
+body{
+    background-color: yellow;
+}
+.horizontal-menu {
+background-color: blue;
+text-align: center;
+border: 5px solid black;
+}
+.horizontal-menu a {
+color: white;
+font-size: 50px;
+padding: 30px;
+text-decoration: none;
+}
