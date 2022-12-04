@@ -5,10 +5,13 @@ body{
 background-color: blue;
 text-align: center;
 border: 5px solid black;
+float: left;
 }
 .horizontal-menu a {
 color: white;
 font-size: 50px;
-padding: 30px;
+padding: 8px;
 text-decoration: none;
+display: block;
+background-color: #dddddd;
 }
