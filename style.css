@@ -6,6 +6,9 @@ background-color: blue;
 text-align: center;
 border: 5px solid black;
 }
+.horizontal-menu li {
+    float: left;
+}
 .horizontal-menu a {
 color: white;
 font-size: 50px;
