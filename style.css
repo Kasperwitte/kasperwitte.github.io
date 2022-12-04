@@ -5,7 +5,6 @@ body{
 background-color: blue;
 text-align: center;
 border: 5px solid black;
-float: left;
 }
 .horizontal-menu a {
 color: white;
