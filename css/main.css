@@ -1,7 +1,7 @@
-h1 {
-    color: red;
+.main-paragraph-styling {
+    color: blue;
 }
 
-p {
-    color: blue;
+.test {
+    font-size: 70px;
 }
