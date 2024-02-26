@@ -54,3 +54,8 @@ body {
 .navbar a:hover::before {
     width: 100%;
 }
+
+.navbar a:last-child {
+    background-color: chocolate;
+    padding: 10px;
+}
