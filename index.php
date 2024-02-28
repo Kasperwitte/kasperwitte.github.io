@@ -13,7 +13,11 @@
 </head>
 
 <body>
-
+<?php
+$naam = "Kasper"; 
+$leeftijd = 16;
+echo $naam;
+?>
 <header class="header">
     <a href="index.html" class="logo">Logo</a>
 
